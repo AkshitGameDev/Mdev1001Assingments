@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Lab2",
+            "database": "/Users/priyankathomas/Desktop/MDEV1001-LA/Mdev1001-LA2/Lab2"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Assignment1Group",
+            "database": "${workspaceFolder:Mdev1001Assingments}/Assingment1/Assingment1(lab2extended).db"
+        }
+    ]
+}
